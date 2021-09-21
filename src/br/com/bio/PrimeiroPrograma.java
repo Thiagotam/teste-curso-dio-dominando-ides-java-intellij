@@ -10,7 +10,7 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 
         /*int a= 5;
-        int b= 3;
+        int b= 3;teste
         System.out.println("Hello Word!" + (a+b));*/
     }
 }
